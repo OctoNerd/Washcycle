@@ -1,0 +1,74 @@
+<<<<<<< HEAD
+About
+
+WashCycle is a bicycle-based window cleaning company in Portland, Oregon specializing in storefront and restaurant window cleaning.
+We are dedicated to bringing our clients exceptionally clean windows and professional service without sacrificing our minimal carbon footprint in the process. With  you not only get the crystal clear windows that every business needs in order to succeed, but you also get to rest easy knowing that your business supports environmentally friendly service providers.
+
+
+The Importance of Clean Windows
+
+In any industry the look and feel of your business is vital to your success. Having clean windows clearly shows your customers, clients, investors and employees that the cleanliness and appearance of your space is a high priority. A clean store is a sign that the business is run well. A business with dirty windows on the other hand shows a lack of caring about the customer's experience. 
+
+
+Doing Our Part to Maintain Portland's Beauty.
+
+WashCycle is commited to maintaining a low carbon footprint and environmental impact with our business practices by using bicycles as our only mode of transportation and only using non-toxic, biodegradable soap without fragrance or dyes. This saves us a ton of money on fuel, car insurance, vehicle maintenance, registration fees, emission testing, licensing fees and even health care in the long term. These practices not only reduce short-term traffic in the Portland area, but also helps slow the damaging long-term effects pollutants have on our natural environment.
+
+
+You Can Depend on Us.
+
+Using our state-of-the-art tools and materials along with our attention to detail and careful technique, we will leave your windows spotless. You won't have to worry about how you're going to get your windows cleaned again knowing that our team will show up on time and get the job done beyond your expectations month after month.
+
+We take pride in being a local business providing a valued service to other local businesses. Our local economy is strongest when residents and businesses work with each other to support one another.
+
+
+Let some light into your life
+
+In the imperfect world we live in, a smile can go a long way to make someone's day better. From our friendly faces to our environmental practices we hope to brighten up not only your day, but also the day of everyone who sees through your crystal-clear windows.
+
+Colors:
+
+rich blue: 0069a3
+blue: 35a3c6
+light blue: 76afd6
+black: 182023
+Sand: a87d4a
+light sand: d3af8e
+=======
+About
+
+WashCycle is a bicycle-based window cleaning company in Portland, Oregon specializing in storefront and restaurant window cleaning.
+We are dedicated to bringing our clients exceptionally clean windows and professional service without sacrificing our minimal carbon footprint in the process. With  you not only get the crystal clear windows that every business needs in order to succeed, but you also get to rest easy knowing that your business supports environmentally friendly service providers.
+
+
+The Importance of Clean Windows
+
+In any industry the look and feel of your business is vital to your success. Having clean windows clearly shows your customers, clients, investors and employees that the cleanliness and appearance of your space is a high priority. A clean store is a sign that the business is run well. A business with dirty windows on the other hand shows a lack of caring about the customer's experience. 
+
+
+Doing Our Part to Maintain Portland's Beauty.
+
+WashCycle is commited to maintaining a low carbon footprint and environmental impact with our business practices by using bicycles as our only mode of transportation and only using non-toxic, biodegradable soap without fragrance or dyes. This saves us a ton of money on fuel, car insurance, vehicle maintenance, registration fees, emission testing, licensing fees and even health care in the long term. These practices not only reduce short-term traffic in the Portland area, but also helps slow the damaging long-term effects pollutants have on our natural environment.
+
+
+You Can Depend on Us.
+
+Using our state-of-the-art tools and materials along with our attention to detail and careful technique, we will leave your windows spotless. You won't have to worry about how you're going to get your windows cleaned again knowing that our team will show up on time and get the job done beyond your expectations month after month.
+
+We take pride in being a local business providing a valued service to other local businesses. Our local economy is strongest when residents and businesses work with each other to support one another.
+
+
+Let some light into your life
+
+In the imperfect world we live in, a smile can go a long way to make someone's day better. From our friendly faces to our environmental practices we hope to brighten up not only your day, but also the day of everyone who sees through your crystal-clear windows.
+
+Colors:
+
+rich blue: 0069a3
+blue: 35a3c6
+light blue: 76afd6
+black: 182023
+Sand: a87d4a
+light sand: d3af8e
+>>>>>>> 5120cd5c7a2f7159e7b4f7e186ccfaf80ad8334a
+gold: E3B668
